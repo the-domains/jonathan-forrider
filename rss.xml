@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[jonathan.forrider]]></title>
         <description><![CDATA[jonathan.forrider]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jonathan-forrider/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 18:34:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 18:36:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jonathan-forrider/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/baba3ae2-8ac4-46c4-bf4e-e45bd10274a1.JPG">]]></description>
+            <link>https://thegrid.ai/jonathan-forrider/320b025e-4980-4180-925b-3ccc53921c5a/index.html</link>
+            <guid isPermaLink="false">320b025e-4980-4180-925b-3ccc53921c5a</guid>
+            <pubDate>Sat, 20 Feb 2016 18:36:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36882ab2-83b7-4bc0-ae60-fbfed8a9a529.JPG">]]></description>
-            <link>undefinedded04747-ca9d-4a78-8d04-942197c396a2/index.html</link>
+            <link>https://thegrid.ai/jonathan-forrider/ded04747-ca9d-4a78-8d04-942197c396a2/index.html</link>
             <guid isPermaLink="false">ded04747-ca9d-4a78-8d04-942197c396a2</guid>
             <pubDate>Sat, 20 Feb 2016 18:32:28 GMT</pubDate>
         </item>
