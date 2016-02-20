@@ -11,8 +11,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://bitbucket.org/jd4rider/'
 title: jd4rider - Bitbucket
-datePublished: '2016-02-20T19:02:39.602Z'
-dateModified: '2016-02-20T19:02:10.250Z'
+datePublished: '2016-02-20T20:32:53.648Z'
+dateModified: '2016-02-20T20:32:42.367Z'
 sourcePath: _posts/2016-02-20-jd4rider-bitbucket.md
 published: true
 inFeed: true
