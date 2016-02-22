@@ -2,12 +2,13 @@ name: jonathan.forrider
 favicon: null
 layout_spectrum: 0.94843
 typography_spectrum: 0.38165116077288985
+title: Portfolio of Jonathan Forrider
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-74192809-1
   facebook: null
   twitter: null
 opengraph:
