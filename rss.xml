@@ -4,8 +4,15 @@
         <description><![CDATA[jonathan.forrider]]></description>
         <link>https://thegrid.ai/jonathan-forrider/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 01:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 21:50:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonathan-forrider/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jd4rider | Codewars]]></title>
+            <description><![CDATA[<article><h1>jd4rider | Codewars</h1><p>Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.</p><img src="https://avatars.githubusercontent.com/u/10453064?v=3"></article>]]></description>
+            <link>http://www.codewars.com/users/jd4rider</link>
+            <guid isPermaLink="false">902bd1b3-5049-464b-95f2-4f34bc69fa81</guid>
+            <pubDate>Mon, 22 Feb 2016 21:50:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e20dd706-1b0b-4882-bb6b-028a816ff858.png">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<p>The latest Tweets from Jonathan Forrider (@jd4rider). I am a Systems Analyst at the University of Montana. Married to the love of my life with two wonderful kids. I am also the Owner/Freelancer at @JonFWebDesigns</p>]]></description>
             <link>https://twitter.com/jd4rider</link>
             <guid isPermaLink="false">d6139d25-e76c-432c-ac72-f2b676321695</guid>
-            <pubDate>Sat, 20 Feb 2016 18:48:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jd4rider (Jonathan David Forrider)]]></title>
-            <description><![CDATA[<article><h1>jd4rider (Jonathan David Forrider)</h1><p>jd4rider has 10 repositories written in C#, Java, and CSS. Follow their code on GitHub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f03bf96a5b6b207641425d74404ef7d01dc2fcea.jpg"></article>]]></description>
-            <link>https://github.com/jd4rider</link>
-            <guid isPermaLink="false">db63e682-948f-4bcc-b192-bbfd2f9a8f3a</guid>
             <pubDate>Sat, 20 Feb 2016 18:48:46 GMT</pubDate>
         </item>
     </channel>
