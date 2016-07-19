@@ -1,29 +1,41 @@
-name: jonathan.forrider
-favicon: null
-layout_spectrum: 0.94843
-typography_spectrum: 0.38165116077288985
 title: Portfolio of Jonathan Forrider
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74192809-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6772288
+  brandStrength: 0.8878695489838719
+  lightness: 0.8501611
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.8878695489838719
-  lightness: 0.029918248765170574
-  saturation: 0.7423222821671516
-  rhythmicContrast: 0.2311202057171613
-purpose: []
+  rhythmicContrast: 0.6020408
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-74192809-1
+  facebook: null
+favicon: null
+name: jonathan.forrider
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.8555317
+layout_spectrum: 0.1863587
