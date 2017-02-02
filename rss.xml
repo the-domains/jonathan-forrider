@@ -4,9 +4,9 @@
         <description><![CDATA[Through the Eyes of a Programmer]]></description>
         <link>https://thegrid.ai/jonathan-forrider/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Feb 2017 23:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2017 23:22:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonathan-forrider/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Feb 2017 23:20:02 GMT</pubDate>
+        <pubDate>Thu, 02 Feb 2017 23:22:06 GMT</pubDate>
         <item>
             <title><![CDATA[jd4rider | Codewars]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f35d8646-b4a4-4796-ac5f-8b3f70ef6593.gif">,<article><h1>jd4rider | Codewars</h1><p>Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.</p></article>]]></description>
@@ -64,18 +64,18 @@
             <pubDate>Sat, 20 Feb 2016 18:48:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[jd4rider - Bitbucket]]></title>
-            <description><![CDATA[<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1eb420766f902ee03a6cbc9d1cbfa564128bcb15.jpg"><h1>jd4rider - Bitbucket</h1></article>]]></description>
-            <link>https://bitbucket.org/jd4rider/</link>
-            <guid isPermaLink="false">745a121d-0e12-4842-8e53-dee6a35052c0</guid>
-            <pubDate>Sat, 20 Feb 2016 20:32:53 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jd4rider's Pastebin - Pastebin.com]]></title>
             <description><![CDATA[<article><h1>Jd4rider&apos;s Pastebin - Pastebin&period;com</h1><p>Pastebin PRO Accounts WINTER SPECIAL&excl; For a limited time only get 40&percnt; discount on a LIFETIME PRO account&excl;</p><img src="http://pastebin.com/i/facebook.png"></article>]]></description>
             <link>http://pastebin.com/u/jd4rider</link>
             <guid isPermaLink="false">eb5b8ece-b71a-4d79-b217-423e9647b5d0</guid>
             <pubDate>Sat, 20 Feb 2016 19:02:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>This is the home page&apos;s excerpt</p><img src="http://jfwebdesigns.altervista.org/wp-content/uploads/2016/11/cropped-St._Patrick_Hospital.png"></article>]]></description>
+            <link>http://jfwebdesigns.altervista.org/</link>
+            <guid isPermaLink="false">269f94c3-6cd0-494d-80b1-f72f7777cd55</guid>
+            <pubDate>Thu, 02 Feb 2017 23:22:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
