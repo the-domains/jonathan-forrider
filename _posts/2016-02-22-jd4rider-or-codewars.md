@@ -1,25 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.codewars.com'
-  name: Codewars
-  favicon: 'http://www.codewars.com/favicon.ico'
-  domain: www.codewars.com
-keywords: []
-description: Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.
-app_links: []
-isBasedOnUrl: 'http://www.codewars.com/users/jd4rider'
-title: 'jd4rider | Codewars'
-datePublished: '2016-02-22T21:50:21.303Z'
-dateModified: '2016-02-22T21:49:50.836Z'
-sourcePath: _posts/2016-02-22-jd4rider-or-codewars.md
-published: true
 inFeed: true
 hasPage: false
-inNav: false
+isBasedOnUrl: 'http://www.codewars.com/users/jd4rider'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2017-02-02T22:25:04.002Z'
+dateModified: '2017-02-02T22:25:03.596Z'
+author: []
+related: []
+app_links: []
+title: ''
+sourcePath: _posts/2016-02-22-jd4rider-or-codewars.md
+authors: []
+publisher: {}
+via: {}
+starred: false
+datePublishedOriginal: '2016-02-22T21:50:58.139Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>jd4rider &amp;vert; Codewars</h1><p>Codewars is where developers achieve code mastery through challenge&amp;period; Train on kata in the dojo and reach your highest potential&amp;period;</p><img src="https://avatars.githubusercontent.com/u/10453064?v=3" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f35d8646-b4a4-4796-ac5f-8b3f70ef6593.gif)
+
+<article style=""><h1>jd4rider | Codewars</h1><p>Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.</p></article>
