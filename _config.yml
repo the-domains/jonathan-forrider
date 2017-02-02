@@ -11,7 +11,7 @@ color:
     - '#E1C8A9'
     - '#8F7AF1'
   rhythmicContrast: 0.2077564199823923
-title: Portfolio of Jonathan Forrider
+title: Through the Eyes of a Programmer
 purpose:
   - type: external
     url: 'https://github.com/jd4rider'
@@ -74,3 +74,4 @@ logo: >-
 author:
   name: Jonathan David Forrider
   email: jd4rider@gmail.com
+description: ''
