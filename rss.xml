@@ -4,9 +4,9 @@
         <description><![CDATA[Through the Eyes of a Programmer]]></description>
         <link>https://thegrid.ai/jonathan-forrider/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Feb 2017 23:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2017 23:26:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonathan-forrider/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Feb 2017 23:22:06 GMT</pubDate>
+        <pubDate>Thu, 02 Feb 2017 23:25:32 GMT</pubDate>
         <item>
             <title><![CDATA[jd4rider | Codewars]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f35d8646-b4a4-4796-ac5f-8b3f70ef6593.gif">,<article><h1>jd4rider | Codewars</h1><p>Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.</p></article>]]></description>
@@ -71,11 +71,11 @@
             <pubDate>Sat, 20 Feb 2016 19:02:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>This is the home page&apos;s excerpt</p><img src="http://jfwebdesigns.altervista.org/wp-content/uploads/2016/11/cropped-St._Patrick_Hospital.png"></article>]]></description>
-            <link>http://jfwebdesigns.altervista.org/</link>
-            <guid isPermaLink="false">269f94c3-6cd0-494d-80b1-f72f7777cd55</guid>
-            <pubDate>Thu, 02 Feb 2017 23:22:06 GMT</pubDate>
+            <title><![CDATA[jd4rider | Codewars]]></title>
+            <description><![CDATA[<article><h1>jd4rider | Codewars</h1><p>Codewars is where developers achieve code mastery through challenge. Train on kata in the dojo and reach your highest potential.</p><img src="http://www.codewars.com/assets/logos/logo-square-paper-bg.jpg"></article>]]></description>
+            <link>https://www.codewars.com/users/jd4rider</link>
+            <guid isPermaLink="false">d243123a-b145-48e0-9fc5-010e7853cf64</guid>
+            <pubDate>Thu, 02 Feb 2017 23:25:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
