@@ -15,7 +15,7 @@ title: Portfolio of Jonathan Forrider
 purpose:
   - type: external
     url: 'https://github.com/jd4rider'
-    label: 'https://github.com/jd4rider'
+    label: GITHUB
 collections:
   - index:
       path: /
