@@ -16,6 +16,9 @@ purpose:
   - type: external
     url: 'https://github.com/jd4rider'
     label: GITHUB
+  - type: external
+    url: 'http://jfwebdesigns.altervista.org/'
+    label: JF Web Designs
 collections:
   - index:
       path: /
