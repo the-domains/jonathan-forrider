@@ -1,5 +1,21 @@
+layout_spectrum: 0.538837890778991
+typography_spectrum: 0.1636606173247726
+color:
+  saturation: 0.3183679347552617
+  brandStrength: 0.09587668812759959
+  lightness: 0.4742943959931225
+  brandColors:
+    - '#FFFFFF'
+    - '#8A7153'
+    - '#5E4A3F'
+    - '#E1C8A9'
+    - '#8F7AF1'
+  rhythmicContrast: 0.2077564199823923
 title: Portfolio of Jonathan Forrider
-purpose: []
+purpose:
+  - type: external
+    url: 'https://github.com/jd4rider'
+    label: 'https://github.com/jd4rider'
 collections:
   - index:
       path: /
@@ -12,17 +28,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.6772288
-  brandStrength: 0.8878695489838719
-  lightness: 0.8501611
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  rhythmicContrast: 0.6020408
 cta:
   bucket: null
   version: null
@@ -31,11 +36,41 @@ analytics:
   twitter: null
   google: UA-74192809-1
   facebook: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d3764cd-7bb2-4ec1-a9a3-ca4f607de6c5.jpg
 name: jonathan.forrider
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.8555317
-layout_spectrum: 0.1863587
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cddf70b-a1a0-4285-a35d-271ed3f73968.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cddf70b-a1a0-4285-a35d-271ed3f73968.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/06fec722-3c47-4a97-93d0-74c7796d7134.jpg
+author:
+  name: Jonathan David Forrider
+  email: jd4rider@gmail.com
