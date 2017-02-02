@@ -37,7 +37,7 @@ analytics:
   google: UA-74192809-1
   facebook: null
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d3764cd-7bb2-4ec1-a9a3-ca4f607de6c5.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bc7540d-d58d-4de4-905c-f8b22f90fced.jpg
 name: jonathan.forrider
 opengraph:
   image: null
@@ -70,7 +70,7 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/06fec722-3c47-4a97-93d0-74c7796d7134.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c6e3943-093a-4632-9aa1-d1af0ffa9da2.jpg
 author:
   name: Jonathan David Forrider
   email: jd4rider@gmail.com
