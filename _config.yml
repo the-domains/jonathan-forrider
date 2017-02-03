@@ -1,16 +1,16 @@
-layout_spectrum: 0.5322159012905922
-typography_spectrum: 0.16566743102413373
+layout_spectrum: 0.11101609781181605
+typography_spectrum: 0.19284099211169425
 color:
-  saturation: 0.6058548626038107
-  brandStrength: 0.09962361444414841
-  lightness: 0.1319291277357036
+  saturation: 0.6320591373887319
+  brandStrength: 0.32674460975610015
+  lightness: 0.07468951494128694
   brandColors:
     - '#FFFFFF'
     - '#8A7153'
     - '#5E4A3F'
     - '#E1C8A9'
     - '#8F7AF1'
-  rhythmicContrast: 0.20386373480173328
+  rhythmicContrast: 0.7085308720786493
 title: Through the Eyes of a Programmer
 purpose:
   - type: external
