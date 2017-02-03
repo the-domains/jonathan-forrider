@@ -1,16 +1,16 @@
-layout_spectrum: 0.538837890778991
-typography_spectrum: 0.1636606173247726
+layout_spectrum: 0.5326146898917522
+typography_spectrum: 0.16848896761360294
 color:
-  saturation: 0.3183679347552617
-  brandStrength: 0.09587668812759959
-  lightness: 0.4742943959931225
+  saturation: 0.6048547621383009
+  brandStrength: 0.09688312942909058
+  lightness: 0.4742486560581676
   brandColors:
     - '#FFFFFF'
     - '#8A7153'
     - '#5E4A3F'
     - '#E1C8A9'
     - '#8F7AF1'
-  rhythmicContrast: 0.2077564199823923
+  rhythmicContrast: 0.20142237586706951
 title: Through the Eyes of a Programmer
 purpose:
   - type: external
@@ -64,7 +64,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
